@@ -1,0 +1,15 @@
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.csproj.AssemblyReference.cache
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.AssemblyInfoInputs.cache
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.AssemblyInfo.cs
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.csproj.CoreCompileInputs.cache
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\bin\Debug\net7.0\ProgramaCampeonatoDePoker.exe
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\bin\Debug\net7.0\ProgramaCampeonatoDePoker.deps.json
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\bin\Debug\net7.0\ProgramaCampeonatoDePoker.runtimeconfig.json
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\bin\Debug\net7.0\ProgramaCampeonatoDePoker.dll
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\bin\Debug\net7.0\ProgramaCampeonatoDePoker.pdb
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.dll
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\refint\ProgramaCampeonatoDePoker.dll
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.pdb
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ProgramaCampeonatoDePoker.genruntimeconfig.cache
+C:\Users\u017051\Desktop\projects\ProgramaCampeonatoDePoker\obj\Debug\net7.0\ref\ProgramaCampeonatoDePoker.dll

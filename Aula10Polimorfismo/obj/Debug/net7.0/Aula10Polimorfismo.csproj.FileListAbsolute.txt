@@ -1,0 +1,15 @@
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\bin\Debug\net7.0\Aula10Polimorfismo.exe
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\bin\Debug\net7.0\Aula10Polimorfismo.deps.json
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\bin\Debug\net7.0\Aula10Polimorfismo.runtimeconfig.json
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\bin\Debug\net7.0\Aula10Polimorfismo.dll
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\bin\Debug\net7.0\Aula10Polimorfismo.pdb
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.AssemblyInfo.cs
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.dll
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\refint\Aula10Polimorfismo.dll
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.pdb
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\Aula10Polimorfismo.genruntimeconfig.cache
+C:\Users\mathe\develop\Devaria\Aula10Polimorfismo\obj\Debug\net7.0\ref\Aula10Polimorfismo.dll

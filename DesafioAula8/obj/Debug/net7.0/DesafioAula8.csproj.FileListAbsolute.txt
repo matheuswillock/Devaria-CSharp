@@ -1,0 +1,15 @@
+C:\Users\mathe\develop\Devaria\DesafioAula8\bin\Debug\net7.0\DesafioAula8.exe
+C:\Users\mathe\develop\Devaria\DesafioAula8\bin\Debug\net7.0\DesafioAula8.deps.json
+C:\Users\mathe\develop\Devaria\DesafioAula8\bin\Debug\net7.0\DesafioAula8.runtimeconfig.json
+C:\Users\mathe\develop\Devaria\DesafioAula8\bin\Debug\net7.0\DesafioAula8.dll
+C:\Users\mathe\develop\Devaria\DesafioAula8\bin\Debug\net7.0\DesafioAula8.pdb
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.csproj.AssemblyReference.cache
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.AssemblyInfo.cs
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.dll
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\refint\DesafioAula8.dll
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.pdb
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\DesafioAula8.genruntimeconfig.cache
+C:\Users\mathe\develop\Devaria\DesafioAula8\obj\Debug\net7.0\ref\DesafioAula8.dll

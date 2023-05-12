@@ -1,0 +1,15 @@
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.csproj.AssemblyReference.cache
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.AssemblyInfoInputs.cache
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.AssemblyInfo.cs
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.csproj.CoreCompileInputs.cache
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\bin\Debug\net7.0\ProgramaQuartasDeFinais.exe
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\bin\Debug\net7.0\ProgramaQuartasDeFinais.deps.json
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\bin\Debug\net7.0\ProgramaQuartasDeFinais.runtimeconfig.json
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\bin\Debug\net7.0\ProgramaQuartasDeFinais.dll
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\bin\Debug\net7.0\ProgramaQuartasDeFinais.pdb
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.dll
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\refint\ProgramaQuartasDeFinais.dll
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.pdb
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ProgramaQuartasDeFinais.genruntimeconfig.cache
+C:\Users\u017051\Desktop\projects\ProgramaQuartasDeFinais\obj\Debug\net7.0\ref\ProgramaQuartasDeFinais.dll

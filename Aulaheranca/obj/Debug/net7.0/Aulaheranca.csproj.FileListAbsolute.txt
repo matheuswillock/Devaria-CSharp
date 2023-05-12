@@ -1,0 +1,15 @@
+C:\Users\mathe\develop\Devaria\Aulaheranca\bin\Debug\net7.0\Aulaheranca.exe
+C:\Users\mathe\develop\Devaria\Aulaheranca\bin\Debug\net7.0\Aulaheranca.deps.json
+C:\Users\mathe\develop\Devaria\Aulaheranca\bin\Debug\net7.0\Aulaheranca.runtimeconfig.json
+C:\Users\mathe\develop\Devaria\Aulaheranca\bin\Debug\net7.0\Aulaheranca.dll
+C:\Users\mathe\develop\Devaria\Aulaheranca\bin\Debug\net7.0\Aulaheranca.pdb
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.csproj.AssemblyReference.cache
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.AssemblyInfo.cs
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.dll
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\refint\Aulaheranca.dll
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.pdb
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\Aulaheranca.genruntimeconfig.cache
+C:\Users\mathe\develop\Devaria\Aulaheranca\obj\Debug\net7.0\ref\Aulaheranca.dll
