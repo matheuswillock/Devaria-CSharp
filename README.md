@@ -1,2 +1,2 @@
 # Devaria-CSharp
-Curso de C# pela Devaria - ministrado por Daniel Castello
+Curso de introdução à C# pela Devaria - ministrado por Daniel Castello
